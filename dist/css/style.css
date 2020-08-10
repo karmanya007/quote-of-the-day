@@ -1,0 +1,81 @@
+*,
+*::after,
+*::before {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.navbar strong {
+	font-size: 1.2em;
+}
+.navbar-custom {
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	background-color: rgba(0, 0, 0, 0.7);
+}
+.navbar-custom .navbar-brand {
+	text-transform: uppercase;
+	font-size: 1rem;
+	letter-spacing: 0.1rem;
+	font-weight: 700;
+}
+.navbar-custom .navbar-nav .nav-item .nav-link {
+	text-transform: uppercase;
+	font-size: 0.8rem;
+	font-weight: 700;
+	letter-spacing: 0.1rem;
+}
+.unsplash {
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+.search-bar {
+	width: 55vw;
+	margin-bottom: auto;
+	min-height: 6vh;
+	display: inline-block;
+}
+.search-btn {
+	position: relative;
+	min-height: 6vh;
+	margin-left: 2vw;
+	bottom: 3px;
+}
+
+.catagory-eg {
+	margin-left: 8.1vw;
+	width: fit-content;
+	border-radius: 3px;
+}
+
+.catagory,
+.date,
+.they-said-so {
+	margin-bottom: 1%;
+}
+
+#quote_link {
+	padding: 0;
+}
+
+.quote_container {
+	min-height: 50vh;
+	border-radius: 15px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.bottom {
+	display: none;
+}
+
+.Footer {
+	display: none;
+}
+
+.quotes_elem {
+	margin-top: 15%;
+}
