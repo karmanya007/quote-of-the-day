@@ -12,6 +12,7 @@ export const clearResults = () => {
 	elements.date.innerHTML = '';
 	elements.tags.innerHTML = '';
 	elements.quote_link.innerHTML = '';
+	elements.quote_img_link.innerHTML = '';
 };
 
 export const renderQuote = (quote) => {
