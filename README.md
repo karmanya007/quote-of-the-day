@@ -19,7 +19,7 @@ You will need [Nodejs](https://nodejs.org/en/) version >= 12.18.2 and npm versio
    ```sh
    git clone https://github.com/karmanya007/quote-of-the-day.git
    ```
-2. Create a .env file in the base directory and put the your own unsplash token key as
+2. Create a .env file in the base directory and put the your own [unsplash token key](https://unsplash.com/documentation#creating-a-developer-account) as
    ```sh
    Unsplash_Access_Key=yourTokenKey
    ```
