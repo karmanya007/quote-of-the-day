@@ -4,8 +4,9 @@ Quote of the day with some unsplash images.
 
 -------
 
-Installation
+![Pic](/dist/img/fq_github.gif)
 
+Installation
 ------------
 
 ### Requirements
